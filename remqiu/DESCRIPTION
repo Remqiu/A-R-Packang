@@ -1,0 +1,11 @@
+Package: remqiu
+Type: Package
+Title: An introduction
+Version: 0.1.1
+Author: Xiaoyu Ge
+Maintainer: Xiaoyu Ge <jeremy0984@sjtu.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU
+Encoding: UTF-8
+LazyData: true
